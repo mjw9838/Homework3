@@ -1,1 +1,1 @@
-This repository includes all the maps and the presentation used in homework assignmnet 3.
+This repository includes all the maps and the presentation used in homework assignment 3.
